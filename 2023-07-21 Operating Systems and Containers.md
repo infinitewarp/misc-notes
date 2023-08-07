@@ -1,5 +1,7 @@
 # It's all about *layers!*
 
+Disclaimer: I am not an expert authority on these subjects. Do not take my words as gospel! This is just a collection of my thoughts and memories (with a few references) that I used as my outline for an in-person conversation.
+
 ## Overview
 
 ![13788979-1595881671730.png](https://dz2cdn1.dzone.com/storage/temp/13788979-1595881671730.png)

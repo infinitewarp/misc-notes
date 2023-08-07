@@ -1,5 +1,7 @@
 # Packaging
 
+Disclaimer: I am not an expert authority on these subjects. Do not take my words as gospel! This is just a collection of my thoughts and memories (with a few references) that I used as my outline for an in-person conversation.
+
 ### Or: everything looks like a TAR file if you stare long enough
 
 ## Overview
