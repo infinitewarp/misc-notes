@@ -6,5 +6,5 @@ Disclaimer: _**I am not an expert authority on these subjects.**_ Do not take my
 
 ### Discussions
 
-* [2023-07-21 Operating Systems and Containers](2023-07-21 Operating Systems and Containers)
-* [2023-08-04 Packaging](2023-08-04 Packaging)
+* 2023-07-21 [Operating Systems and Containers](01-Operating-Systems-and-Containers.md)
+* 2023-08-04 [Packaging](02-Packaging.md)
