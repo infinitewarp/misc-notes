@@ -63,7 +63,7 @@ For the sake of this discussion, when I'm talking about the kernel, assume it's 
 - CPU instructions look like this:
 	- [x86 and amd64 instruction reference](https://www.felixcloutier.com/x86/index.html)
 	- [Example instructions to draw one pixel](https://github.com/cirosantilli/x86-bare-metal-examples/blob/master/bios_pixel.S)
-	- [ELF executable diagram](https://raw.githubusercontent.com/corkami/pics/master/binary/elf101/elf101-64.svg)
+	- [ELF executable diagram](https://raw.githubusercontent.com/corkami/pics/refs/heads/master/binary/elf101/elf101-64.pdf)
 	- (maybe look at an example program in ada64)
 
 
