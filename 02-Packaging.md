@@ -15,9 +15,12 @@ Some ways we package, distribute, and install software include:
 	* originally created by Marc Ewing, Red Hat founder
 * container images ([specification](https://github.com/opencontainers/image-spec/blob/main/spec.md))
 	* _exclusively_ used by container engines like Docker and podman
-* AppImage, Snap, FlatPak
+* FlatPak, AppImage, Snap,
 	* typically for distributing desktop GUI apps
-	* basically an executable iso/archive
+	* basically an executable iso/archive,
+		* FlatPak has [single-file bundles](https://docs.flatpak.org/en/latest/single-file-bundles.html)
+		* AppImage has [AppDir](https://docs.appimage.org/reference/appdir.html)
+		* Snap is basically a rebranded AppImage (AppDir).
 	* (Let's skip this one for now…)
 
 ## What's the difference? Why X instead of Y?
