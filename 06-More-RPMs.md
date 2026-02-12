@@ -1,4 +1,4 @@
-# RPMs deeper dive
+# RPMs Deeper Dive
 
 ## Getting RPMs
 
