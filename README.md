@@ -10,3 +10,5 @@ Disclaimer: _**I am not an expert authority on these subjects.**_ Do not take my
 * [Packaging](02-Packaging.md)
 * [Agile Templates](03-Agile-Templates.md)
 * [Talk About RESTful APIs](04-Talk-About-RESTful-APIs.md)
+* [Container Image Deeper Dive](05-More-Container-Images.md)
+* [RPMs Deeper Dive](06-More-RPMs.md)
